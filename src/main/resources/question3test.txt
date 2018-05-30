@@ -1,0 +1,10 @@
+#input file to test execution time
+#format
+#fully qualified class name; method name; optional parameters.
+#as this is only an exercise optional parameters only accept int and string.
+com.my.q.three.sample.SampleClass;fixedTimeMethod
+com.my.q.three.sample.SampleClass;variableTimeMethod;int 112
+com.my.q.three.sample.SampleClass;randomTimeMethod
+com.my.q.three.sample.SampleClass2;fixedTimeMethod2
+com.my.q.three.sample.SampleClass2;variableTimeMethod2;int 333
+com.my.q.three.sample.SampleClass2;randomTimeMethod2
